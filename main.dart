@@ -80,7 +80,7 @@ class _MyCustomTextState extends State<MyCustomText> {
                 );
               });
         },
-        tooltip: 'Display Item', //search button
+        tooltip: 'Sreach Item', //search button
         child: const Icon(
             Icons.check_circle), //the enter key Button with circle check box
       ),
